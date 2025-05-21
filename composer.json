@@ -1,4 +1,5 @@
 {
+    "name": "strikeoneventures/shippo-php",
     "description": "Use this API to integrate with the Shippo service",
     "keywords": [
         "openapitools",
